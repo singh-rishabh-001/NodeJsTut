@@ -15,4 +15,14 @@ in root folder.
 5. node_modules folder stores the codes of our dependencies
 
 6. installing validator
+
+7. Global Modules
+    can be used in any project in the system
+8. Nodemon
+    automatically restart the node whenever there is file change detected
+
+    to install globally write
+    npm install nodemon -g
+
+    we can check package.json that it is not added , as it is installed globally
 */
